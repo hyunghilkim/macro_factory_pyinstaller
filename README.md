@@ -1,6 +1,6 @@
 # 네이버 카페 본문 크롤링
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/48472537/138337782-3c14b5f5-0d44-4df7-aa71-05bde70189f9.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/48472537/138341124-4e846357-573a-403c-a3a0-b4b5aca3873b.gif)
 
 ### 목차
 
