@@ -12,8 +12,6 @@
 
 네이버 카페 본문 크롤링을 자동화 하여 엑셀파일로 최종결과물을 얻을수 있습니다.
 
-![image](https://user-images.githubusercontent.com/68773118/115060388-c489c600-9f22-11eb-8b1d-d88cc5d25ad1.png)
-
 ### 시연영상 [Youtube](https://youtu.be/_foZB2uVKzQ)
 
 ## 프로젝트 설명
