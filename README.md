@@ -1,5 +1,7 @@
 # 네이버 카페 본문 크롤링
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/48472537/138337782-3c14b5f5-0d44-4df7-aa71-05bde70189f9.gif)
+
 ### 목차
 
 [1. 프로젝트 설명 ](#프로젝트-설명)<br/>
